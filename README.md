@@ -1,8 +1,17 @@
 # Hi, I'm tomohiro 👋
-
 ![](https://komarev.com/ghpvc/?username=tomohirohiratsuka)
 
-[![TomohiroHiratsuka's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomohirohiratsuka)](https://github.com/anuraghazra/github-readme-stats)
+🌟 Thank you for visiting my profile!
+
+I am the founder and driving force behind Easpe, Inc., dedicated to providing SaaS solutions primarily for facilities supporting children with developmental disorders. In my dual roles as a developer and founder, I immerse myself in coding daily, thriving as a full-stack developer.
+
+💻 Beyond our main services, we extend our passion for technology by offering engineering services to other companies. We are adept at handling all phases of the software development process, from strategic business planning to rigorous testing protocols.
+
+🌈 If my endeavors and our team's ethos resonate with you, please feel free to initiate a conversation. I am open to discussions and potential collaborations. Let's connect! :)
+
+## Contact
+<p><a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Guibz16" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/thomas-guibert" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
